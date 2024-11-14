@@ -1,3 +1,6 @@
+
+ 
+
 # Blog Project
 
 Un projet de blog complet utilisant le stack MERN (MongoDB, Express, React, Node.js). Ce projet permet de gérer des articles de blog avec une authentification utilisateur via JWT et un stockage d'images avec Cloudinary.
@@ -24,13 +27,22 @@ CLOUDINARY_API_SECRET=your_api_secret_from_cloudinary
 APP_EMAIL_ADDRESS=your_email_service_for_sending_email
 APP_EMAIL_PASSWORD=your_email_service_password
 CLIENT_DOMAIN=http://localhost:3000
- 
- ###  Démarrer le Backend : 
-   cd backend
-   npm run dev
- ###  Démarrer le Frontend :
-    cd frontend
-    npm start
+
+````
+### Install BackEnd with npm
+
+```bash
+  cd backend
+  npm install
+```
+
+### Install FrontEnd with npm
+
+
+```bash
+  cd FrontEnd
+  npm install
+```
 
 
 
