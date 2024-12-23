@@ -49,3 +49,33 @@ npm run dev
 cd frontend
 npm start
 ```
+## User Interface 
+<img src="Images/Login.png" >
+
+<img src="Images/Admin Dashboard.png" >
+
+<img src="Images/categories.png" >
+
+<img src="Images/Comments.png" >
+
+<img src="Images/create NewPost.png" >
+
+<img src="Images/Dasborad1.png" >
+
+<img src="Images/Posts.png" >
+
+<img src="Images/Posts1.png" > 
+
+<img src="Images/Post2.png" >
+
+<img src="Images/Register.png" >
+
+<img src="Images/users.png" >
+
+
+
+
+
+
+
+
